@@ -4,7 +4,8 @@ class LoginPage {
 
     usernameInputField='[data-test="username"]';
     passwordInputField= '[data-test="password"]';
-    submitLoginButton= '[data-test="login-button"]';    
+    submitLoginButton= '[data-test="login-button"]';
+    
 
 
 
